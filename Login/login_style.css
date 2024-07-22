@@ -1,0 +1,34 @@
+body{
+    background-color:#d2d2d2;
+}
+
+
+form{
+    width: 24%;
+    background-color:#708090;
+    padding: 50px;
+    border-radius: 15px;
+    margin-top: 150px;
+    border: 1.5px solid gray;
+}
+
+.btn{
+    background-color: #d2d2d2;
+    font-weight: 600;
+    border: 1px solid #949398FF;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+#email-id{
+   border: 1px solid #949398FF;
+   background-color: #e0e0e0;
+}
+
+#password{
+    border: 1px solid #949398FF;
+    background-color: #e0e0e0;
+}
+

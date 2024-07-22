@@ -1,0 +1,35 @@
+/* 
+
+.registration{
+    width: 60%;
+    margin-left: 100px;
+} */
+
+h4{
+    text-decoration: underline;
+}
+
+form{
+    /* background-color: aqua; */
+    width: 70%;
+    background-color:#708090;
+    border-radius: 1rem;
+    border: 1.9px solid #949398FF;
+}
+
+body{
+    background-color:#d2d2d2;
+}
+
+.input-field{
+    border: 1px solid gray;
+    background-color: #d2d2d2;
+}
+
+.btn-submit{
+    background-color:#d2d2d2;
+    border:1.5px solid #949398FF ;
+    border-radius: 0.2rem;
+    width: 100px;
+    height: 40px;
+}
